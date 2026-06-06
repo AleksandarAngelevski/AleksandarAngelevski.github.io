@@ -104,6 +104,10 @@ h1 {
   border-top: 0.5px solid var(--border);
   margin: 1.75rem 0;
 }
+.divider-alt{
+  border-color: var(--amber-400);
+
+}
 
 /* ── Section label ── */
 .section-label {
@@ -177,6 +181,14 @@ h1 {
   line-height: 1.6;
   margin-bottom: 14px;
 }
+
+/* -- Project card -- */
+.project-wrapper{
+  margin: 10px 0;
+}
+
+
+
 
 /* ── Download button ── */
 .dl-btn {
